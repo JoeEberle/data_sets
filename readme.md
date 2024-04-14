@@ -1,12 +1,12 @@
 
-# Data Sets - A set of data files used for data science soltuions.
+# Data Sets - A set of data files used for data science solutions.
 
 ![Code Logo](code.png)
 ## Description
 
 Welcome to the solution **Data Sets** - an example for your projects
 
-A set of data files used for data science soltuions.
+A set of data files used for data science solutions.
 
 ## Features
 - Easy to understand and use  
@@ -24,6 +24,7 @@ A set of data files used for data science soltuions.
 - Low Code - or - No Code
 - Educational 
     
-![Code Logo](developer.png)
-![Code brand](brand.png)
+![Developer](developer.png)
+
+![Brand](brand.png)
     
