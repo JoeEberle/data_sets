@@ -24,6 +24,13 @@ A set of data files used for data science solutions.
 - Low Code - or - No Code
 - Educational 
     
+## Getting Started
+To get started with the **create_readme_md** solution repository, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed at the top of the notebook.
+3. Explore the example code provided in the repository and experiment.
+4. Run the notebook and make it your own - **EASY !**
+    
 ## https://github.com/JoeEberle/ -- josepheberle@outlook.com 
     
 ![Developer](developer.png)
