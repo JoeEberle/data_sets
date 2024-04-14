@@ -24,6 +24,8 @@ A set of data files used for data science solutions.
 - Low Code - or - No Code
 - Educational 
     
+## https://github.com/JoeEberle/ -- josepheberle@outlook.com 
+    
 ![Developer](developer.png)
 
 ![Brand](brand.png)
