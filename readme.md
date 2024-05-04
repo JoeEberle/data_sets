@@ -1,12 +1,12 @@
 
-# Data Sets - A repostory of curated datasets for data science projects
-A repostory of curated datasets for data science projects
+# Data Sets - A repository of curated datasets for data science projects
+A repository of curated datasets for data science projects
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Data Sets** - an example for your projects
 
-A repostory of curated datasets for data science projects
+A repository of curated datasets for data science projects
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Data Sets** solution repository, follow these steps:
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](data_sets.png)  <br>
+    ## Deliverables or Figures![additional_image](data_sets.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
